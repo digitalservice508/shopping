@@ -3,7 +3,7 @@ import * as actionTypes from "../actions/actionTypes";
 const initialState = {
   cart: [],
   vat: 16, //vat in percentage
-  cartTotal: 0,
+  cartTotal: 1,
   orderSuccess: false,
   promoCode: [
     {
